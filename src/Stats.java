@@ -1,6 +1,7 @@
 import java.util.*;
 public class Stats {
 private int[] data;
+aaa
 
 public Stats(int[] data) {
 	this.data = data;
